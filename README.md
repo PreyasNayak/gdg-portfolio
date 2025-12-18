@@ -46,6 +46,6 @@ gdg-portfolio/
 
 ## 🤝 Contributing & Learning
 
-Feel free to experiment, break things, and learn! If you get stuck, ask a mentor or check the React documentation.
+Feel free to experiment, break things, and learn!
 
 Happy Coding! 🎨💻
