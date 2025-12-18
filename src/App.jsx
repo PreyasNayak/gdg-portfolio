@@ -55,24 +55,24 @@ function App() {
             <h4>Project Name 1</h4>
             <p>Brief description of the project, technologies used, and your role.</p>
             <div className="project-links">
-              <a href="#" target="_blank" rel="noopener noreferrer">Demo</a>
-              <a href="#" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="#" target="_blank">Demo</a>
+              <a href="#" target="_blank">GitHub</a>
             </div>
           </div>
           <div className="project-card">
             <h4>Project Name 2</h4>
             <p>Brief description of the project, technologies used, and your role.</p>
             <div className="project-links">
-              <a href="#" target="_blank" rel="noopener noreferrer">Demo</a>
-              <a href="#" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="#" target="_blank">Demo</a>
+              <a href="#" target="_blank">GitHub</a>
             </div>
           </div>
           <div className="project-card">
             <h4>Project Name 3</h4>
             <p>Brief description of the project, technologies used, and your role.</p>
             <div className="project-links">
-              <a href="#" target="_blank" rel="noopener noreferrer">Demo</a>
-              <a href="#" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="#" target="_blank">Demo</a>
+              <a href="#" target="_blank">GitHub</a>
             </div>
           </div>
         </div>
@@ -98,9 +98,9 @@ function App() {
         <h3>Contact & Links</h3>
         <div className="contact-links">
           <a href="mailto:your.email@example.com">Email</a>
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+          <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+          <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
+          <a href="/resume.pdf" target="_blank">Resume</a>
         </div>
       </section>
     </div>
