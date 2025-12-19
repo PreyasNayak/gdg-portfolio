@@ -6,7 +6,7 @@ function App() {
     <div className="portfolio-container">
       {/* Hero Section */}
       <section id="hero" className="section hero">
-        <h1>Your Name</h1>
+        <h1>Preyas S D</h1>
         <h2>Your Current Role</h2>
         <p className="career-goal">
           Description about yourself.
